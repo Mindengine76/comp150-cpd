@@ -15,7 +15,7 @@ Therefore, the first objective is to identify which learning strategies are goin
 Note to self: regard this first term as an experiment, it is better to know my weaknesses and fail first, so I can better learn C++ after christmas. The first week was interesting and invigorating (just what I wanted, a new challenge!! a new mountain to climb), I was impressed by the breath of the things I could learn, robotics is something I am deeply interested in, and it was a shame that there wasn't a robot guild I could join (or that it wasn't part of the course hint, hint). This would have only enhanced my interest in 
 programming (and looked great on my CV!!!), plus it would have meant alternative source of social resources. Note to self, as some stage I will propose a robotics guild.
 
-Objective within the first term, be able to understand and use the skills and knowledge taught in the course. Second objective, not to be discouraged by failure, but embrace it to full understand my limitations and identify the areas I need to work on (time frame first 6 weeks)
+Objective within the first term, be able to understand and use the skills and knowledge taught in the course. Second objective, not to be discouraged by failure, but embrace it to fully understand my limitations and identify the areas I need to work on (time frame first 6 weeks)
 
 
 ## Week 1
